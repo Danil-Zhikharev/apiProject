@@ -1,5 +1,5 @@
 public class FormDate {
-    char day;
-    char month;
-    char year;
+    int day;
+    int month;
+    int year;
 }
